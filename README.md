@@ -34,7 +34,7 @@ Python CLI that checks Linux server health. Dockerized, with unit and integratio
 `Python` `JavaScript` `Docker` `Linux` `GitHub Actions` `FastAPI` `React` `OpenSearch` `OWASP ZAP` `Trivy` `MITRE ATT&CK`
 
 ## 📫 Work with me
-- LinkedIn: [your LinkedIn URL]
-- Email: [your email]
+- LinkedIn: [https://www.linkedin.com/in/ayoub-elouardi-921573337/]
+- Email: [ciferlu4@gmail.com]
 
 *Open to freelance projects and remote DevSecOps / security roles.*
